@@ -17,34 +17,49 @@ Microsoft sees all the big companies creating original video content, and they w
 
 Given the background and goals, our questions of interest were:
 
-Q1: Which studio would be the best the partner with to create video?
-Q2: What genres can generate most revenue, proft and profit margin?
-Q3: What are the seasonalities in movies industry?
-Q4: Are there any movie categories that generate the greatest worldwide revenue?
-Q5: Who are the top 5 names by worldwide revenue? Top actors/actresses?
-Q6: Do TMDB ratings indicate success?
+- Q1: Which studio would be the best the partner with to create video?
+- Q2: What genres can generate most revenue, proft and profit margin?
+- Q3: What are the seasonalities in movies industry?
+- Q4: Are there any movie categories that generate the greatest worldwide revenue?
+- Q5: Who are the top 5 names by worldwide revenue? Top actors/actresses?
+- Q6: Do TMDB ratings indicate success?
 
 Analyzing the data from Box Office Mojo, IMDB, Rotten Tomatoes and TheMovieDB.org to answer these questions will help them formulate Go-To-Market Strategies to launch original video content.
 
 ## R+K Recommendations
 
-Please refer to the [narrative Jupyter Notebook](./TBD) in this repository for a walkthrough and more explanation of these findings.
+Please refer to the [narrative Jupyter Notebook](./master_worksheet_combined.ipynb) in this repository for a walkthrough and more explanation of these findings.
 
-- Partner with Top 10 studios, Universal/BV for domestic market, WB&Sony for foreign markets
-- Genre
-  *Profit: Animation, Adventure and Musical generate most profit while Musical has huge variance
-  *Profitability: Musical and Horror have the highest profitability, while Musical has huge variance
-- Seasonality
-  *Summer and holiday seasons are the best to launch new titles
-- Marque titles / franchises
-  *Comics do exceedingly well at the box office
-  *DC owned by WarnerBros (HBO is their virtual distribution platform)
-  *Marvel owned by Disney (Disney+ is their virtual distribution platform)
-- E-sports + gambling and viewing becoming increasingly popular
-- One popular reason for watching games is for the storyline - similar to movies
-  *Strong association between gaming and microsoft (XBox)
-  *Pre-existing relationships with developers + customer association to enable success in this space
-- Large target audience - children to adult ability to target
+#### 1) Partnership
+
+  * with Top 10 studios, Universal/BV for domestic market, WB&Sony for foreign markets 
+
+#### 2) Genre
+
+  * Revenue: Adventure, Animation, Fantasy, Musical and Sci-Fi are great to generate awareness
+  * Profit: Animation, Adventure and Musical generate most profit while Musical has huge variance
+  * Profitability: Musical and Horror have the highest profitability
+  
+#### 3) Seasonality
+
+  * Summer and holiday seasons are the best to launch new titles
+  * Marquee titles / franchises
+  
+#### 4) Stories based on comic books do exceedingly well  at the box office
+
+  * DC owned by WarnerBros (HBO is their virtual distribution platform) 
+  * Marvel owned by Disney (Disney+ is their virtual distribution platform)
+  
+#### 5) E-sports + gambling and viewing becoming increasingly popular
+
+#### 6) One popular reason for watching games is for the storyline - similar to movies
+
+  * Strong association between gaming and microsoft (XBox) 
+  * Pre-existing relationships with developers + customer association to enable success in this space
+  
+#### 7) Large target audience with the ability to target across age demographics
+
+
 
 ## Limitations & Next Steps
 
@@ -54,4 +69,4 @@ Please refer to the [narrative Jupyter Notebook](./TBD) in this repository for a
 ## Contact
 
 For any additional questions, please reach out to R+K Consulting Firm.
-![logo](https://cdn.dribbble.com/users/1334988/screenshots/8136760/rk-01.jpg)
+<img align="left" src="https://cdn.dribbble.com/users/1334988/screenshots/8136760/rk-01.jpg">
