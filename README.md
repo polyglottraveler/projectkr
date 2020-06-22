@@ -26,6 +26,10 @@ Q6: Do TMDB ratings indicate success?
 
 Analyzing the data from Box Office Mojo, IMDB, Rotten Tomatoes and TheMovieDB.org to answer these questions will help them formulate Go-To-Market Strategies to launch original video content.
 
+## Data
+All data has been compiled thanks to the heroic Andy Enkeboll, spanning Rotten Tomatoes, IMDB, TMDB and other sources. It can be accessed at the HBS DS database in the movies database. 
+
+
 ## R+K Recommendations
 
 Please refer to the [narrative Jupyter Notebook](./TBD) in this repository for a walkthrough and more explanation of these findings.
@@ -44,11 +48,14 @@ Please refer to the [narrative Jupyter Notebook](./TBD) in this repository for a
 - One popular reason for watching games is for the storyline - similar to movies
   *Strong association between gaming and microsoft (XBox)
   *Pre-existing relationships with developers + customer association to enable success in this space
-- Large target audience - children to adult ability to target
+- Large target audience - ability to target all age groups 
 
 ## Limitations & Next Steps
 
 - Missing linking data between IMDB and Rotten Tomato
+- Deeper analysis required for understanding the E-gaming market
+- Limited given box office information given for films based off of vidoe games (e.g. Halo)
+- Further investigation to understand the TMDB popularity algorithm and experimentation to determine if it is capable of predicting box office success given certain movie characteristics
 ...
 
 ## Contact
